@@ -2,7 +2,7 @@
 
 ## 终端命令
 ```bash
-curl -X POST https://hook.us2.make.com/pribsOBhatx34qxzra69pgqklOht9suw -H "Content-Type: application/json" -d '{
+curl -X POST https://hook.us2.make.com/pribs08hatx34qxzra69pgqk10ht9suw -H "Content-Type: application/json" -d '{
 "destination": "Dxxxxxxxxxxxxxxxxxx",
 "events": [
   {
